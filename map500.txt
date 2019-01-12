@@ -1,0 +1,500 @@
+Data_value	Series_title_1	Series_title_2	Series_title_3
+2368.69	Basic material wholesaling	Sales (operating income)	Unadjusted
+2100.44	Basic material wholesaling	Sales (operating income)	Unadjusted
+2070.21	Basic material wholesaling	Sales (operating income)	Unadjusted
+2284.77	Basic material wholesaling	Sales (operating income)	Unadjusted
+2134.76	Basic material wholesaling	Sales (operating income)	Unadjusted
+2038.45	Basic material wholesaling	Sales (operating income)	Unadjusted
+2031.17	Basic material wholesaling	Sales (operating income)	Unadjusted
+2263.97	Basic material wholesaling	Sales (operating income)	Unadjusted
+1997.05	Basic material wholesaling	Sales (operating income)	Unadjusted
+2025.13	Basic material wholesaling	Sales (operating income)	Unadjusted
+2009.55	Basic material wholesaling	Sales (operating income)	Unadjusted
+2199.21	Basic material wholesaling	Sales (operating income)	Unadjusted
+2081.28	Basic material wholesaling	Sales (operating income)	Unadjusted
+2074.51	Basic material wholesaling	Sales (operating income)	Unadjusted
+1945.92	Basic material wholesaling	Sales (operating income)	Unadjusted
+2174.62	Basic material wholesaling	Sales (operating income)	Unadjusted
+2041.11	Basic material wholesaling	Sales (operating income)	Unadjusted
+2086.81	Basic material wholesaling	Sales (operating income)	Unadjusted
+2189.79	Basic material wholesaling	Sales (operating income)	Unadjusted
+2285.29	Basic material wholesaling	Sales (operating income)	Unadjusted
+2222.68	Basic material wholesaling	Sales (operating income)	Unadjusted
+2281.39	Basic material wholesaling	Sales (operating income)	Unadjusted
+2314.49	Basic material wholesaling	Sales (operating income)	Unadjusted
+2725.07	Basic material wholesaling	Sales (operating income)	Unadjusted
+2455.79	Basic material wholesaling	Sales (operating income)	Unadjusted
+2656.11	Basic material wholesaling	Sales (operating income)	Unadjusted
+2654.37	Basic material wholesaling	Sales (operating income)	Unadjusted
+2745.46	Basic material wholesaling	Sales (operating income)	Unadjusted
+2652.62	Basic material wholesaling	Sales (operating income)	Unadjusted
+2682.44	Basic material wholesaling	Sales (operating income)	Unadjusted
+2728.65	Basic material wholesaling	Sales (operating income)	Unadjusted
+2829.27	Basic material wholesaling	Sales (operating income)	Unadjusted
+2544.22	Basic material wholesaling	Sales (operating income)	Unadjusted
+2558.36	Basic material wholesaling	Sales (operating income)	Unadjusted
+2576.08	Basic material wholesaling	Sales (operating income)	Unadjusted
+2812.78	Basic material wholesaling	Sales (operating income)	Unadjusted
+2553.85	Basic material wholesaling	Sales (operating income)	Unadjusted
+2839.01	Basic material wholesaling	Sales (operating income)	Unadjusted
+2944.86	Basic material wholesaling	Sales (operating income)	Unadjusted
+3127.86	Basic material wholesaling	Sales (operating income)	Unadjusted
+2866.78	Basic material wholesaling	Sales (operating income)	Unadjusted
+3136.88	Basic material wholesaling	Sales (operating income)	Unadjusted
+3191.08	Basic material wholesaling	Sales (operating income)	Unadjusted
+3368.75	Basic material wholesaling	Sales (operating income)	Unadjusted
+3159.73	Basic material wholesaling	Sales (operating income)	Unadjusted
+3326.03	Basic material wholesaling	Sales (operating income)	Unadjusted
+3644.39	Basic material wholesaling	Sales (operating income)	Unadjusted
+3726.87	Basic material wholesaling	Sales (operating income)	Unadjusted
+3409.54	Basic material wholesaling	Sales (operating income)	Unadjusted
+3590.18	Basic material wholesaling	Sales (operating income)	Unadjusted
+3751.05	Basic material wholesaling	Sales (operating income)	Unadjusted
+4130.79	Basic material wholesaling	Sales (operating income)	Unadjusted
+3845.42	Basic material wholesaling	Sales (operating income)	Unadjusted
+4168.7	Basic material wholesaling	Sales (operating income)	Unadjusted
+4295.96	Basic material wholesaling	Sales (operating income)	Unadjusted
+4388.39	Basic material wholesaling	Sales (operating income)	Unadjusted
+3519.89	Basic material wholesaling	Sales (operating income)	Unadjusted
+3470.2	Basic material wholesaling	Sales (operating income)	Unadjusted
+3640.8	Basic material wholesaling	Sales (operating income)	Unadjusted
+3915.1	Basic material wholesaling	Sales (operating income)	Unadjusted
+3528.19	Basic material wholesaling	Sales (operating income)	Unadjusted
+3823.29	Basic material wholesaling	Sales (operating income)	Unadjusted
+4127.92	Basic material wholesaling	Sales (operating income)	Unadjusted
+4715.56	Basic material wholesaling	Sales (operating income)	Unadjusted
+4396.69	Basic material wholesaling	Sales (operating income)	Unadjusted
+4482.04	Basic material wholesaling	Sales (operating income)	Unadjusted
+4783.19	Basic material wholesaling	Sales (operating income)	Unadjusted
+5126.04	Basic material wholesaling	Sales (operating income)	Unadjusted
+4565.35	Basic material wholesaling	Sales (operating income)	Unadjusted
+4617.4	Basic material wholesaling	Sales (operating income)	Unadjusted
+4625.6	Basic material wholesaling	Sales (operating income)	Unadjusted
+5159.75	Basic material wholesaling	Sales (operating income)	Unadjusted
+4509.09	Basic material wholesaling	Sales (operating income)	Unadjusted
+4461.55	Basic material wholesaling	Sales (operating income)	Unadjusted
+4698.45	Basic material wholesaling	Sales (operating income)	Unadjusted
+5306.17	Basic material wholesaling	Sales (operating income)	Unadjusted
+4945.39	Basic material wholesaling	Sales (operating income)	Unadjusted
+4977.97	Basic material wholesaling	Sales (operating income)	Unadjusted
+5139.46	Basic material wholesaling	Sales (operating income)	Unadjusted
+5648.81	Basic material wholesaling	Sales (operating income)	Unadjusted
+4854.3	Basic material wholesaling	Sales (operating income)	Unadjusted
+4766.38	Basic material wholesaling	Sales (operating income)	Unadjusted
+5110.743	Basic material wholesaling	Sales (operating income)	Unadjusted
+5434.482	Basic material wholesaling	Sales (operating income)	Unadjusted
+4622.498	Basic material wholesaling	Sales (operating income)	Unadjusted
+4692.955	Basic material wholesaling	Sales (operating income)	Unadjusted
+5028.472	Basic material wholesaling	Sales (operating income)	Unadjusted
+5503.411	Basic material wholesaling	Sales (operating income)	Unadjusted
+4991.618	Basic material wholesaling	Sales (operating income)	Unadjusted
+5146.375	Basic material wholesaling	Sales (operating income)	Unadjusted
+5646.508	Basic material wholesaling	Sales (operating income)	Unadjusted
+6535.57	Basic material wholesaling	Sales (operating income)	Unadjusted
+5561.831	Basic material wholesaling	Sales (operating income)	Unadjusted
+5754.562	Basic material wholesaling	Sales (operating income)	Unadjusted
+6328.241	Basic material wholesaling	Sales (operating income)	Unadjusted
+2387.55	Basic material wholesaling	Sales (operating income)	Seasonally adjusted
+2159.985	Basic material wholesaling	Sales (operating income)	Seasonally adjusted
+2138.235	Basic material wholesaling	Sales (operating income)	Seasonally adjusted
+2139.998	Basic material wholesaling	Sales (operating income)	Seasonally adjusted
+1097.36	Basic material wholesaling	Total stocks	Seasonally adjusted
+1044.45	Basic material wholesaling	Total stocks	Seasonally adjusted
+1006.85	Basic material wholesaling	Total stocks	Seasonally adjusted
+1008.06	Basic material wholesaling	Total stocks	Seasonally adjusted
+1040.91	Basic material wholesaling	Total stocks	Seasonally adjusted
+1031.97	Basic material wholesaling	Total stocks	Seasonally adjusted
+1024.49	Basic material wholesaling	Total stocks	Seasonally adjusted
+1026.14	Basic material wholesaling	Total stocks	Seasonally adjusted
+994.17	Basic material wholesaling	Total stocks	Seasonally adjusted
+987.83	Basic material wholesaling	Total stocks	Seasonally adjusted
+1006.24	Basic material wholesaling	Total stocks	Seasonally adjusted
+998.72	Basic material wholesaling	Total stocks	Seasonally adjusted
+1023.32	Basic material wholesaling	Total stocks	Seasonally adjusted
+1019.3	Basic material wholesaling	Total stocks	Seasonally adjusted
+974.92	Basic material wholesaling	Total stocks	Seasonally adjusted
+984.46	Basic material wholesaling	Total stocks	Seasonally adjusted
+980.02	Basic material wholesaling	Total stocks	Seasonally adjusted
+1027.05	Basic material wholesaling	Total stocks	Seasonally adjusted
+1022.59	Basic material wholesaling	Total stocks	Seasonally adjusted
+1014.03	Basic material wholesaling	Total stocks	Seasonally adjusted
+1047.6	Basic material wholesaling	Total stocks	Seasonally adjusted
+1033.12	Basic material wholesaling	Total stocks	Seasonally adjusted
+1104	Basic material wholesaling	Total stocks	Seasonally adjusted
+1089.19	Basic material wholesaling	Total stocks	Seasonally adjusted
+1087.03	Basic material wholesaling	Total stocks	Seasonally adjusted
+1140.27	Basic material wholesaling	Total stocks	Seasonally adjusted
+1125.62	Basic material wholesaling	Total stocks	Seasonally adjusted
+1143.55	Basic material wholesaling	Total stocks	Seasonally adjusted
+1192.08	Basic material wholesaling	Total stocks	Seasonally adjusted
+1155.38	Basic material wholesaling	Total stocks	Seasonally adjusted
+1240.78	Basic material wholesaling	Total stocks	Seasonally adjusted
+1175.01	Basic material wholesaling	Total stocks	Seasonally adjusted
+1192.68	Basic material wholesaling	Total stocks	Seasonally adjusted
+1173	Basic material wholesaling	Total stocks	Seasonally adjusted
+1125.04	Basic material wholesaling	Total stocks	Seasonally adjusted
+1081.36	Basic material wholesaling	Total stocks	Seasonally adjusted
+1133.91	Basic material wholesaling	Total stocks	Seasonally adjusted
+1190.1	Basic material wholesaling	Total stocks	Seasonally adjusted
+1218.86	Basic material wholesaling	Total stocks	Seasonally adjusted
+1208.91	Basic material wholesaling	Total stocks	Seasonally adjusted
+1270.28	Basic material wholesaling	Total stocks	Seasonally adjusted
+1318.46	Basic material wholesaling	Total stocks	Seasonally adjusted
+1334.18	Basic material wholesaling	Total stocks	Seasonally adjusted
+1263.83	Basic material wholesaling	Total stocks	Seasonally adjusted
+1345.6	Basic material wholesaling	Total stocks	Seasonally adjusted
+1385.43	Basic material wholesaling	Total stocks	Seasonally adjusted
+1429.93	Basic material wholesaling	Total stocks	Seasonally adjusted
+1388.59	Basic material wholesaling	Total stocks	Seasonally adjusted
+1470.71	Basic material wholesaling	Total stocks	Seasonally adjusted
+1500.2	Basic material wholesaling	Total stocks	Seasonally adjusted
+1561.7	Basic material wholesaling	Total stocks	Seasonally adjusted
+4557.214	Machinery and equipment wholesaling	Sales (operating income)	Seasonally adjusted
+4336.346	Machinery and equipment wholesaling	Sales (operating income)	Seasonally adjusted
+4529.152	Machinery and equipment wholesaling	Sales (operating income)	Seasonally adjusted
+4493.118	Machinery and equipment wholesaling	Sales (operating income)	Seasonally adjusted
+4628.286	Machinery and equipment wholesaling	Sales (operating income)	Seasonally adjusted
+4634.167	Machinery and equipment wholesaling	Sales (operating income)	Seasonally adjusted
+4719.451	Machinery and equipment wholesaling	Sales (operating income)	Seasonally adjusted
+4809.596	Machinery and equipment wholesaling	Sales (operating income)	Seasonally adjusted
+4717.55	Machinery and equipment wholesaling	Sales (operating income)	Seasonally adjusted
+4804.403	Machinery and equipment wholesaling	Sales (operating income)	Seasonally adjusted
+4878.199	Machinery and equipment wholesaling	Sales (operating income)	Seasonally adjusted
+4701.137	Machinery and equipment wholesaling	Sales (operating income)	Seasonally adjusted
+4863.428	Machinery and equipment wholesaling	Sales (operating income)	Seasonally adjusted
+4819.795	Machinery and equipment wholesaling	Sales (operating income)	Seasonally adjusted
+4785.979	Machinery and equipment wholesaling	Sales (operating income)	Seasonally adjusted
+4673.939	Machinery and equipment wholesaling	Sales (operating income)	Seasonally adjusted
+4624.612	Machinery and equipment wholesaling	Sales (operating income)	Seasonally adjusted
+4682.986	Machinery and equipment wholesaling	Sales (operating income)	Seasonally adjusted
+4654.744	Machinery and equipment wholesaling	Sales (operating income)	Seasonally adjusted
+4746.319	Machinery and equipment wholesaling	Sales (operating income)	Seasonally adjusted
+4690.126	Machinery and equipment wholesaling	Sales (operating income)	Seasonally adjusted
+4794.431	Machinery and equipment wholesaling	Sales (operating income)	Seasonally adjusted
+4848.435	Machinery and equipment wholesaling	Sales (operating income)	Seasonally adjusted
+4882.256	Machinery and equipment wholesaling	Sales (operating income)	Seasonally adjusted
+5041.192	Machinery and equipment wholesaling	Sales (operating income)	Seasonally adjusted
+5077.879	Machinery and equipment wholesaling	Sales (operating income)	Seasonally adjusted
+5236.045	Machinery and equipment wholesaling	Sales (operating income)	Seasonally adjusted
+5313.115	Machinery and equipment wholesaling	Sales (operating income)	Seasonally adjusted
+5493.121	Machinery and equipment wholesaling	Sales (operating income)	Seasonally adjusted
+5584.174	Machinery and equipment wholesaling	Sales (operating income)	Seasonally adjusted
+2218.593	Machinery and equipment wholesaling	Sales (operating income)	Trend
+2345.024	Machinery and equipment wholesaling	Sales (operating income)	Trend
+2460.255	Machinery and equipment wholesaling	Sales (operating income)	Trend
+2505.57	Machinery and equipment wholesaling	Sales (operating income)	Trend
+2467.565	Machinery and equipment wholesaling	Sales (operating income)	Trend
+2405.11	Machinery and equipment wholesaling	Sales (operating income)	Trend
+2388.118	Machinery and equipment wholesaling	Sales (operating income)	Trend
+2356.483	Machinery and equipment wholesaling	Sales (operating income)	Trend
+2324.672	Machinery and equipment wholesaling	Sales (operating income)	Trend
+2281.292	Machinery and equipment wholesaling	Sales (operating income)	Trend
+2229.131	Machinery and equipment wholesaling	Sales (operating income)	Trend
+2281.489	Machinery and equipment wholesaling	Sales (operating income)	Trend
+2354.576	Machinery and equipment wholesaling	Sales (operating income)	Trend
+2326.678	Machinery and equipment wholesaling	Sales (operating income)	Trend
+2287.319	Machinery and equipment wholesaling	Sales (operating income)	Trend
+2364.022	Machinery and equipment wholesaling	Sales (operating income)	Trend
+2542.233	Machinery and equipment wholesaling	Sales (operating income)	Trend
+2815.198	Machinery and equipment wholesaling	Sales (operating income)	Trend
+2965.523	Machinery and equipment wholesaling	Sales (operating income)	Trend
+688.4	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+760.75	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+805.32	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+758.92	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+735.45	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+743.2	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+774.21	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+730.5	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+672.68	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+697.66	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+677.31	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+684.96	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+610.88	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+630.48	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+642.97	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1030.88	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+904.81	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+931.51	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1143.82	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1244.16	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1158.89	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1169.44	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1165.35	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1225.97	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1101.72	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1233.61	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1341.6	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1512.24	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1360.87	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1591.7	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1553.16	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1646.5	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1612.37	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1695.59	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1784.42	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1867.21	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1652.64	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1786.89	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1922.23	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1915.55	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1756.96	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1851.06	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1906.51	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1719.17	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1611.51	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1655.01	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1751.58	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1705.07	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1715.08	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1874.85	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+1988.12	Motor vehicle and motor vehicle parts wholesaling	Sales (operating income)	Unadjusted
+629.38	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+621.857	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+671.853	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+734.254	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+740.02	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+712.801	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+672.544	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+640.987	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+620.688	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+601.375	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+580.736	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+649.965	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+764.154	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+811.082	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+845.53	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+895.481	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+892.897	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+909.753	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+951.914	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+941.123	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+905.543	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+939.794	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+979.553	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+1010.41	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+1039.821	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+1064.569	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+1099.842	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+1163.703	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+1236.128	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+1283.254	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+1348.845	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+1411.077	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+1442.728	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+1426.874	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+1387.026	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+1363.559	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+1413.18	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+1522.593	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+1623.344	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+1661.822	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+1592.296	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+1512.179	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+1493.181	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+1445.735	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+1362.673	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+1382.718	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+1435.076	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+1426.057	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+1413.654	Motor vehicle and motor vehicle parts wholesaling	Total stocks	Trend
+1521.536	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Trend
+1686.541	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Trend
+3615.73	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+4231.3	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+4120.29	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+4207.87	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+3913.92	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+4349.99	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+4164.94	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+4442.92	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+3873.01	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+4167.77	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+4266.56	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+4665.76	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+4284.34	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+4922.13	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+4765.96	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+5389.21	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+5222.34	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+6035.69	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+5729.22	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+6157.1	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+5570.42	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+5762.65	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+4368.28	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+4510.1	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+4151	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+4649.7	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+4481.41	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+4760.81	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+4411.21	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+4958.59	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+4703.64	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+4960.11	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+4566.56	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+4944.45	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+4843.24	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+5026.78	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+4617.68	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+5108.19	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+5106.78	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+5425.88	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+5045.26	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+5686.99	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+5754.37	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+6057.1	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+5393.96	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+6174.17	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+5897.7	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+5942.86	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+5330.72	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+5891.64	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+5750.12	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+6095.49	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+5576.38	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+6228.82	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+6161.55	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+6307.51	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+6051.44	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+6622.67	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+6251.95	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+6779.44	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+6213.47	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+6677.92	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+6488.22	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+6874.69	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+6220.64	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+6738.63	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+6576.41	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+6999.14	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+6384.28	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+7078.03	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+6886.51	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+7150.56	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+6687.92	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+7349.05	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+7533.626	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+7694.193	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+7033.86	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+7610.845	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+7462.927	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+7938.209	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+7281.467	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+7962.013	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+8012.116	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+8328.227	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+7508.655	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+8367.486	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+8605.405	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Unadjusted
+3229.987	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Seasonally adjusted
+3172.955	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Seasonally adjusted
+3323.877	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Seasonally adjusted
+3409.623	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Seasonally adjusted
+3478.464	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Seasonally adjusted
+3843.981	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Seasonally adjusted
+3692.679	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Seasonally adjusted
+3772.52	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Seasonally adjusted
+3881.612	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Seasonally adjusted
+4056.676	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Seasonally adjusted
+4142.896	"Grocery, liquor and tobacco product wholesaling"	Sales (operating income)	Seasonally adjusted
+1007.38	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1006.003	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1068.685	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1147.344	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1162.437	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1166.965	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1133.635	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1144.103	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1111.247	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1106.318	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1280.366	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1204.714	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1283.978	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1326.069	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1307.5	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1329.691	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1347.318	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1420.74	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1380.854	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1399.063	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1428.737	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1372.588	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1441.232	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1406.63	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1453.855	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1615.322	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1598.411	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1578.561	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1578.648	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1424.499	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1577.071	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1564.15	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1521.772	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1562.764	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1540.953	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1665.383	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1601.48	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1656.925	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1708.141	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1747.262	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1808.618	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1684.442	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1747.704	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1671.246	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1726.799	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1805.206	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1760.076	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1848.129	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1865.094	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1943.639	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1989.279	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Seasonally adjusted
+1671.645	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+1831.117	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+1936.815	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+2000.309	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+2083.191	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+2140.102	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+2107.859	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+2054.724	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+2061.906	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+2089.492	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+2092.559	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+2062.855	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+2002.596	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+1974.836	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+1996.631	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+1970.179	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+1889.889	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+1866.772	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+1913.702	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+1988.863	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+2065.161	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+2138.176	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+2280.523	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+2511	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+2612.153	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+2619.224	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+2967.031	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+3554.366	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+3687.039	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+2961.989	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+1820.273	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+1034.747	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+904.762	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+1050.064	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+1111.866	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+1035.001	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+970.734	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+997.592	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+1047.897	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+1031.054	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+985.626	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+1002.102	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+1035.251	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+1024.917	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+998.546	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+1014.32	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+1070.995	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+1137.612	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
+1168.333	"Grocery, liquor and tobacco product wholesaling"	Total stocks	Trend
